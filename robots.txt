@@ -1,0 +1,112 @@
+# ----------------------
+# Universal Rules (All Bots)
+# ----------------------
+User-agent: *
+Disallow: /admin/
+
+
+Allow: /
+
+# ----------------------
+# Google
+# ----------------------
+User-agent: Googlebot
+Disallow:
+Allow: /
+
+User-agent: Googlebot-Image
+Disallow:
+Allow: /
+
+User-agent: Googlebot-Mobile
+Disallow:
+Allow: /
+
+# ----------------------
+# Bing
+# ----------------------
+User-agent: Bingbot
+Disallow:
+Allow: /
+
+# ----------------------
+# Yahoo
+# ----------------------
+User-agent: Slurp
+Disallow:
+Allow: /
+
+# ----------------------
+# DuckDuckGo
+# ----------------------
+User-agent: DuckDuckBot
+Disallow:
+Allow: /
+
+# ----------------------
+# Yandex
+# ----------------------
+User-agent: Yandex
+Disallow:
+Allow: /
+
+# ----------------------
+# Baidu
+# ----------------------
+User-agent: Baiduspider
+Disallow:
+Allow: /
+
+# ----------------------
+# Sogou
+# ----------------------
+User-agent: Sogou Spider
+Disallow:
+Allow: /
+
+# ----------------------
+# Exabot
+# ----------------------
+User-agent: Exabot
+Disallow:
+Allow: /
+
+# ----------------------
+# Cốc Cốc
+# ----------------------
+User-agent: Coccocbot
+Disallow:
+Allow: /
+
+# ----------------------
+# Qwant
+# ----------------------
+User-agent: Qwantify
+Disallow:
+Allow: /
+
+# ----------------------
+# Facebook
+# ----------------------
+User-agent: Facebot
+Disallow:
+Allow: /
+
+# ----------------------
+# LinkedIn
+# ----------------------
+User-agent: LinkedInBot
+Disallow:
+Allow: /
+
+# ----------------------
+# Applebot
+# ----------------------
+User-agent: Applebot
+Disallow:
+Allow: /
+
+# ----------------------
+# Sitemap
+# ----------------------
+Sitemap: https://game-faf.github.io/sitemap.xml
